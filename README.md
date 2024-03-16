@@ -4,7 +4,7 @@
 
 - 📚 Estudando **Python, JavaScript, PHP, MySQL**
 
-- 📩 Contrate-me **go.herick.andrade@gmail.com**
+- 📩 Contato: **go.herick.andrade@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <div> 
